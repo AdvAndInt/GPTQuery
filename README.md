@@ -23,3 +23,8 @@ Another thing you can do is create multiple queries from the same prompt. I'd im
 The output from the multiprompt. Note that the content won't identify the query information, it's just the text from the LLM. 
 ![Multi Response](https://github.com/AdvAndInt/GPTQuery/assets/94275417/3f109184-a3f9-4f54-8dce-0965ab007107)
 
+
+
+## Adventure and Intrigue
+Here is a glimpse of what I am working on with this script.
+![Adventure and Intrigue](https://github.com/AdvAndInt/GPTQuery/assets/94275417/80685cfd-2836-4294-9710-cbd8d12599f1)
